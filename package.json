@@ -1,0 +1,7 @@
+{
+	"scripts":{"start":"node app.js"},
+    "name": "game",
+    "description": "a realtime chat web application",
+    "version": "0.0.1",
+    "main": "app.js"
+}
